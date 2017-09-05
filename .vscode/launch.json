@@ -1,0 +1,15 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "al",
+			"request": "publish",
+			"name": "Local server",
+			"server": "http://onepint.notora.local:7449",
+			"serverInstance": "Onepint_TEST",
+			"tenant": "default",
+			"windowsAuthentication": true,
+			"startupObjectId": 22
+		}
+	]
+}

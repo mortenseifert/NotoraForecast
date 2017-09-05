@@ -1,0 +1,22 @@
+{
+  "id": "bbf8ee1d-2537-4299-b55e-9c46319d52eb",
+  "name": "ALProject1",
+  "publisher": "Notora ApS",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "10.0.0.0",
+  "application": {
+    "version": "10.0.0.0",
+    "locale": "US"
+  }
+}
